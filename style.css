@@ -1,0 +1,22 @@
+.calc {
+    border: 2px solid green;
+    padding: 15px 30px;
+    margin-top: 80px;
+}
+
+#final_price {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.card-images {
+    padding-top: 80px;
+}
+
+.card-images img {
+    display: none;
+}
+
+#card_1_0 {
+    display: inline-block;
+}
